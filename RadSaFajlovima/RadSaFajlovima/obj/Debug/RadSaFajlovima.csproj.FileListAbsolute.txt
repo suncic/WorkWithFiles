@@ -5,3 +5,10 @@ E:\VSprojekti\RadSaFajlovima\RadSaFajlovima\obj\Debug\RadSaFajlovima.csproj.Asse
 E:\VSprojekti\RadSaFajlovima\RadSaFajlovima\obj\Debug\RadSaFajlovima.csproj.CoreCompileInputs.cache
 E:\VSprojekti\RadSaFajlovima\RadSaFajlovima\obj\Debug\RadSaFajlovima.exe
 E:\VSprojekti\RadSaFajlovima\RadSaFajlovima\obj\Debug\RadSaFajlovima.pdb
+E:\WorkWithFiles\RadSaFajlovima\RadSaFajlovima\bin\Debug\RadSaFajlovima.exe.config
+E:\WorkWithFiles\RadSaFajlovima\RadSaFajlovima\bin\Debug\RadSaFajlovima.exe
+E:\WorkWithFiles\RadSaFajlovima\RadSaFajlovima\bin\Debug\RadSaFajlovima.pdb
+E:\WorkWithFiles\RadSaFajlovima\RadSaFajlovima\obj\Debug\RadSaFajlovima.csproj.AssemblyReference.cache
+E:\WorkWithFiles\RadSaFajlovima\RadSaFajlovima\obj\Debug\RadSaFajlovima.csproj.CoreCompileInputs.cache
+E:\WorkWithFiles\RadSaFajlovima\RadSaFajlovima\obj\Debug\RadSaFajlovima.exe
+E:\WorkWithFiles\RadSaFajlovima\RadSaFajlovima\obj\Debug\RadSaFajlovima.pdb
